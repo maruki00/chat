@@ -1,0 +1,41 @@
+.content{
+	width: 90%;
+	height: 300px;
+	overflow: scroll;
+	margin: 0 auto;
+}
+.info{
+    width: 20%;
+    margin: 0 auto;
+    background-color: #4e3c6b;
+    color: white;
+    padding-left: 10px;
+    display: all;
+}
+
+.infoHeader{
+	width: 100%;
+	height: 20px;
+	background-color: black;
+	color: yellow;
+}
+.news{
+	width: 80%;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+}
+.info{
+	width: 20%;
+    margin: 0 auto;
+    background-color: #4e3c6b;
+    color: white;
+    padding-left: 10px;
+    height: 100px;
+    float: left;
+
+}
+.new{
+	width: 70%;
+	background-color: green;
+}

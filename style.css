@@ -1,0 +1,138 @@
+.info{
+			  	width: 29%;
+  float: left;
+  background-color: burlywood;
+  border-color: rgb(255, 235, 205);
+  color: rgb(207, 155, 88);
+  color: black;
+  height: 556px;
+  border: solid 1px white;
+		}
+		.msg{
+			width: 70%;
+			float: right;
+			background-color: ;
+  			border-color: white;
+  			border: solid 2px white;
+			color: yellow;
+			height: 600px;
+			border-radius: 50%;
+
+		}
+		.msgs{
+			text-align: left;
+		  width: 100%;
+	  height: 400px;
+	  background-color: blanchedalmond;
+	  border: solid 2px white;
+	  color: rgb(3, 3, 3);
+		}
+		.send{
+			width: 100%;
+		  	height: 150px;
+		  	background-color: burlywood;
+		  	border: solid 1px white;
+		  	color: rgb(3, 3, 3);
+		}
+		.send textarea{
+			width: 79%;
+  height: 80px;
+  margin: auto;
+  max-height: 80px;
+		}
+		.send input{
+			  width: 35%;
+  height: 31px;
+  margin: auto;
+  border-radius: 16px;
+  color: black;
+  background-color: rgb(132, 132, 148);
+  border: 0;
+
+		}
+
+
+		.menu{
+			width: 100%;
+
+		}
+		.menu ul{
+			list-style: none;
+			background-color: rgb(100, 113, 124);
+			width: 100%;
+			float: initial;
+			margin: auto;
+			height: 55px;
+		}
+		.menu ul li{
+			float: right;
+		}
+		.bd{
+			width: 60%;
+			margin: auto;
+		}
+		.content{
+			width: 100%;
+			margin:auto;
+		}
+		.menu ul li a{
+			text-decoration: none;
+		}
+#home{
+	    float: left;
+  margin: 6px -1px -23px 65px;
+  font-size: 29px;
+  text-align: left;
+  margin: 10 10 10 10;
+  margin: 5px;
+  margin-left: 44px;
+  font-size: 29px;
+  text-align: right;
+  border-radius: 4px;
+  background-color: blanchedalmond;
+  color: black;
+  width: 108px;
+  text-align: center;
+  padding: 2px;
+  height: 40px;
+}
+#logout{
+	float: right;
+  margin: 10 10 10 10;
+  margin: 7px;
+  margin-right: 32px;
+  font-size: 29px;
+  text-align: right;
+  border-radius: 4px;
+  background-color: blanchedalmond;
+  color: black;
+  width: 120px;
+  text-align: center;
+  padding: 2px;
+  height: 36px;
+}
+.cotenu{
+	width: 100%;
+  background-color: antiquewhite;
+  height: 400px;
+}
+.all{
+	width: 100%;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.a{
+
+}
+.b{
+
+	font-size: 16px;
+}
